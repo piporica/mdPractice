@@ -85,6 +85,21 @@ public class answerIs {
 Link: [Google][googlelink]   
 [googlelink]: https://google.com "Go google"
    
-뭐냐왜안돼
+뭐냐 왜안돼? 이 방법은 왜 안되는거지
 
 [얘가](github.com/piporica/ "젤다에요?")
+
+
+
+## 8. 강조
+*롤20에서 하던 그거에요*
+_그거야 그거_
+**그거로구만**
+__그거네요__
+~~이건새롭네~~
+문장 중간에 쓸 때는 *띄어쓰기* 하는 게 좋대
+
+
+## 9. 이미지
+
+![Alt text](https://camo.githubusercontent.com/a123b2c6011765dd07b9b58e40599a0ba15336a9ddd082e85f704781c97baee2/687474703a2f2f6366696c65362e75662e746973746f72792e636f6d2f696d6167652f32343236453634363534334339423435333243374230 "히히 쌔벼왔다")
