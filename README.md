@@ -51,15 +51,15 @@
 
 ## 5. 코드블록
 
-* "'''" 이용하기
+* "```" 이용하기
 
-'''
+```
 public class sayHello {
    print("HELLLLLLLLLLLLLLLLLO");
 }
-'''
+```
 
-* <pre><code> </code></pre>
+* "<pre><code> </code></pre>" 쓰기
 
 <pre>
 <code>
