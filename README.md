@@ -48,3 +48,34 @@
   
 들여써졌으면좋겠어요
 아하 2탭설정으로는 두번 탭쳐야(공백이 네개여야) 들여써지는군
+
+## 5. 코드블록
+
+* "'''" 이용하기
+
+'''
+public class sayHello {
+   print("HELLLLLLLLLLLLLLLLLO");
+}
+'''
+
+* <pre><code> </code></pre>
+<pre>
+<code>
+public class answerIs {
+   print("Hi");
+}
+</code>
+</pre>
+
+
+##6 선긋기
+
+* * *
+***
+*****
+- - - 
+----------------------------------------
+쭊쭊
+
+
