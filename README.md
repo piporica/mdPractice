@@ -59,7 +59,8 @@ public class sayHello {
 }
 ```
 
-* "<pre><code> </code></pre>" 쓰기
+* "<★pre><★code> </code></pre>" 쓰기
+*별빼야됨*
 
 <pre>
 <code>
