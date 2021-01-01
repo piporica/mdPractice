@@ -81,8 +81,7 @@ public class answerIs {
 쭊쭊
 
 ## 7. 링크만들기
-* 예쁜링크만들기
-   - 방법1
+
 Link: [Google][googlelink]
 [googlelink]: https://google.com "Go google"
 
