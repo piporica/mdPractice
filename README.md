@@ -83,6 +83,6 @@ public class answerIs {
 ## 7. 링크만들기
 * 예쁜링크만들기
    - 방법1
-   Link : [링크이름][젤다]
-   [젤다] : https://github.com/piporica/ "메인화면으로!"
+   Link: [링크이름][젤다]
+   [젤다]: https://github.com/piporica/ "메인화면으로!"
 
