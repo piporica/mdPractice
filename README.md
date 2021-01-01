@@ -82,6 +82,9 @@ public class answerIs {
 
 ## 7. 링크만들기
 
-Link: [Google][googlelink]
+Link: [Google][googlelink]   
 [googlelink]: https://google.com "Go google"
+   
+뭐냐왜안돼
 
+[얘가](github.com/piporica/ "젤다에요?")
