@@ -59,7 +59,7 @@ public class sayHello {
 }
 ```
 
-* "<★pre><★code> </code></pre>" 쓰기
+* "<★pre><★code> <★/code><★/pre>" 쓰기   
 *별빼야됨*
 
 <pre>
@@ -71,7 +71,7 @@ public class answerIs {
 </pre>
 
 
-##6 선긋기
+## 6 선긋기
 
 * * *
 ***
@@ -80,4 +80,7 @@ public class answerIs {
 ----------------------------------------
 쭊쭊
 
+## 7. 링크만들기
+* 예쁜링크만들기
+[링크이름] : https://github.com/piporica/ "메인화면으로!"
 
